@@ -228,7 +228,7 @@
 
 ## Development and Contributing
 Yes, please! Feel free to contribute, raise issues and recommend best practices.
-<a href="https://github.com/jayantkatia/upcoming_mobiles_api/blob/main/Makefile"> Makefile</a> is your friend.
+<a href="https://github.com/20gurpreet01/UPMob-API/blob/main/Makefile"> Makefile</a> is your friend.
 
 A few resources:
 - [GoLang Documentation](https://golang.org/doc/)
